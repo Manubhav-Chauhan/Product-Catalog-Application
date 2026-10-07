@@ -433,37 +433,13 @@ This project demonstrates:
 - [API Documentation](./docs/api.md) - API endpoint documentation (to be added)
 - [Azure Migration Guide](../azure.md) - Complete guide for migrating to Azure with AKS and ArgoCD
 
-## 📸 Screenshots
 
-### Application UI
-![Frontend UI](images/frontend-ui.png)
-
-### Product List View
-![Product List](images/product-list.png)
-
-### Product Details with Ratings
-![Product Details](images/product-details.png)
-
-### Docker Containers Running
-![Docker Containers](images/docker-containers.png)
-
-### Kubernetes Pods
-![Kubernetes Pods](images/k8s-pods.png)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Ensure tests pass
-5. Submit a pull request
 
 ## 📄 License
 
 MIT License
 
-## 👤 Author
-samuel O
+
 
 DevOps Portfolio Project
 
