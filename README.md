@@ -439,6 +439,7 @@ This project demonstrates:
 
 MIT License
 
+**Note:** This is a portfolio project designed to showcase DevOps skills and microservices architecture. For production use, additional considerations such as authentication, rate limiting, and comprehensive monitoring should be implemented.
 
 
 DevOps Portfolio Project
